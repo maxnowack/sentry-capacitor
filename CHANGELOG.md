@@ -12,6 +12,12 @@
 
 - options normalizeDepth and normalizeMaxBreadth are now being respected when adding a breadcrumb. ([#766](https://github.com/getsentry/sentry-capacitor/pull/766))
 
+### Dependencies
+
+- Bump Cocoa SDK from v8.36.0 to v8.40.0 ([#751](https://github.com/getsentry/sentry-capacitor/pull/751))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8400)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.36.0...8.40.0)
+
 ## 1.0.1
 
 ### Dependencies
